@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Airport/marker.ac 104.002397 1.370019 6.27 180
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 104.0505167 1.3516 -0.84 261.8
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac 104.0484967 1.3341567 -1.02 68.3
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.04695 1.364215 -0.65 119.16
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.06223 1.3512333 -1.15 331.98
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.0714967 1.3433333 -1.62 272.78
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0399817 1.3596983 -0.16 161.04
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0636483 1.3365182 -1.65 221.43
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.078165 1.3625 -0.65 224.54
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0796 1.351315 -1.3 57.81
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0814917 1.3713367 -0.45 319.66
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0982317 1.2977817 -3.57 100.15
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 104.08348 1.3348333 -2.51 170.44

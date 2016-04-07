@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ndb.ac 103.823333 1.423333 24.17 180
+OBJECT_SHARED Models/Airport/ndb.ac 103.865061 1.416531 10.33 180
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 103.80833 1.4761683 -0.04 69.07
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 103.85933 1.4595 -0.07 177.87
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.8674283 1.457715 -0.07 23.6
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 103.8076633 1.4758333 -0.04 29.2
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 103.8397833 1.467415 -0.04 189.69
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 103.8525 1.4625017 -0.04 119.06
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 103.86632 1.4543833 -0.06 74.55
