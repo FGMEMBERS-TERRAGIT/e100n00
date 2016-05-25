@@ -11,3 +11,14 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0796 1.351315 -1.
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0814917 1.3713367 -0.45 319.66
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0982317 1.2977817 -3.57 100.15
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 104.08348 1.3348333 -2.51 170.44
+
+# osm2city_WSSS
+# do not edit below this line
+# Last Written Wed May 25 09:23:00 2016
+#
+OBJECT_STATIC WSSScity3518.xml 104.01601 1.30619 -0.25 0
+OBJECT_STATIC lightmap-switch.xml 104.01601 1.30619 -0.25 0
+OBJECT_STATIC WSSScity3519.xml 104.01601 1.32428 -0.01 0
+OBJECT_STATIC WSSScity3520.xml 104.01601 1.34237 -0.04 0
+OBJECT_STATIC WSSScity3619.xml 104.03398 1.32428 -0.02 0
+# END osm2city_WSSS
