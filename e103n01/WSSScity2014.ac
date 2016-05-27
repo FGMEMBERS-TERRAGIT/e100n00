@@ -4,7 +4,7 @@ OBJECT world
 kids 2
 OBJECT poly
 name "LOD_rough"
-texture "tex/atlas_facades.png"
+texture "../../../Models/OSM/tex/atlas_facades.png"
 numvert 1512
 74.5531 -0.102 -82.0661
 66.4922 -0.102 -83.4461
@@ -7698,7 +7698,7 @@ refs 14
 kids 0
 OBJECT poly
 name "LOD_detail"
-texture "tex/atlas_facades.png"
+texture "../../../Models/OSM/tex/atlas_facades.png"
 numvert 450
 52.0843 -0.1 53.6073
 46.9647 -0.1 52.7281
