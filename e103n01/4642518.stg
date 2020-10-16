@@ -30,11 +30,11 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 103.7519474 1.2937
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 103.750785 1.2646733 -0.42 350.1
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 103.75786 1.25974 -0.23 21.45
 OBJECT_STATIC marina-bay-sands.ac 103.86051583 1.28327335 0 335
-OBJECT_STATIC republic-plaza.ac 103.851111 1.282778 -5.22 0
+OBJECT_STATIC republic-plaza.ac 103.8505 1.285 32 0
 OBJECT_STATIC capital-tower.ac 103.8475 1.2775 20 240
 OBJECT_STATIC uob-plaza.ac 103.8501713 1.2854518 19.43 340
 OBJECT_STATIC one-raffles-place.ac 103.851 1.2846 35.4 72
-OBJECT_STATIC ocean-financial-center.ac 103.851748 1.28363205 100.11 100
+OBJECT_STATIC ocean-financial-center.ac 103.8519 1.283 76.63 100
 OBJECT_STATIC Singapore_Flyer_Base.ac 103.8634554 1.28878039 0 0
 OBJECT_STATIC Singapore_Flyer.xml 103.8634601 1.28944349 1.65 0
 # osm2city_WSSS
