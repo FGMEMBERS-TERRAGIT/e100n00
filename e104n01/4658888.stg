@@ -3,3 +3,11 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 104.06 1.13833 -0.02 39.
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 104.06 1.15833 -0.05 17.92
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 104.06 1.135 0 86.38
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 104.06 1.15833 -0.05 78.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 104.11785 1.12518 23.20 136.64
+OBJECT_SHARED Models/lib/lamp10m.xml 104.11828 1.12568 22.84 143.13
+OBJECT_SHARED Models/lib/lamp10m.xml 104.11873 1.12619 22.66 140.56
+OBJECT_SHARED Models/lib/lamp10m.xml 104.11917 1.12670 22.29 138.65
+# END dsf2stg

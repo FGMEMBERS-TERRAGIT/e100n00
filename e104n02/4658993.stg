@@ -15,3 +15,10 @@ OBJECT_SHARED Models/Trees/palm_02.xml 104.1591712 2.818895 6.49 0
 OBJECT_SHARED Models/Aircraft/TB20.xml 104.1586617 2.8180334 5.99 248
 OBJECT_SHARED Models/Residential/MontserratHse3Green.xml 104.1586697 2.8184128 5.88 44
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 104.1584633 2.8179952 5.67 324
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac 104.15974 2.81928 0.00 335.482
+OBJECT_SHARED Models/lib/office16x4n.ac 104.15865 2.81772 6.31 63.2122
+OBJECT_SHARED Models/lib/admin31x12.ac 104.15882 2.81852 5.53 303.257
+# END dsf2stg
